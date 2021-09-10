@@ -1,4 +1,4 @@
-- 👋  @Justhasla
+- 👋  @itsRichardK
 - 👀 Interested in penetration testing ,android development ,home automation
 - 🌱 Electrical and electronic Engineer
 - 💞️ Basically a Software development
